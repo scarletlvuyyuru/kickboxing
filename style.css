@@ -1,6 +1,16 @@
-h1 {
+header h1 {
     color: red;
     font-family: "Poppins", serif;
     font-weight: 700;
     font-style: normal;
 }
+
+header {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/pictures/kickboxing.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding:150px 0;
+}
+
