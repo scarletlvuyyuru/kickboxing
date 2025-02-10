@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), url(/pictures/kickboxing.png);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(/pictures/kickboxing.png);
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
@@ -64,5 +64,10 @@ footer {
 
 footer a {
     color: red;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
 }
 
