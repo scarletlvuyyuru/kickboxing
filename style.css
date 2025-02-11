@@ -1,6 +1,6 @@
 body {
     font-family: "Poppins", sans-serif;
-    background: black;
+    
 }
 
 header {
@@ -60,6 +60,9 @@ header a:hover {
 
 footer {
     color: white;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(/pictures/kb.png);
+    background-size: cover;
+    
 }
 
 footer a {
