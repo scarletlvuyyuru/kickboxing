@@ -63,6 +63,24 @@ main {
     background-color: white;
     border-radius: 3px;
 }
+
+main h2 {
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+    color: red;
+    opacity: 9.0;
+}
+
+main h3 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 1.5;
+    color: #272044;
+    margin: 0;
+}
 section {
    max-width: 100%;
    margin: 0 auto;
@@ -122,10 +140,6 @@ footer p {
  
 }
 
-.subheading {
-    color: red;
-    opacity: 9.0;
-}
 
 
 
@@ -149,6 +163,10 @@ footer p {
 
     header h3 {
         font-size: 12px;
+    }
+
+    section {
+        padding: 30px;
     }
 
     .grid {
