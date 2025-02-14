@@ -48,9 +48,10 @@ header h3 {
     text-decoration: none;
     line-height: 1.5;
     display: block;
-margin: 0 auto;
+    margin: 0 auto;
     letter-spacing: 3px;
-    margin-top: 40px;
+    margin-top: 50px;
+
     border: 1px solid red;
 
 }
