@@ -141,7 +141,6 @@ footer p {
 
   .two-columns {
     grid-template-columns: 1fr 1fr;
-   
 
   }
 .grid-3-columns-with-first-narrow {
@@ -154,9 +153,35 @@ footer p {
     padding: 30px;
    
 }
+.insta {
+    padding: 0 20px;
+    
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.insta {
+    display: grid;
+   
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 0px;
+    justify-items: center;
+    align-items: center;
+    width: 100%;
+    
+}
+
+.posts {
+    background-color: rgb(213, 211, 211);
+    justify-content: center;
+}
 
 .paddingTop {
     padding-top: 30px;
+}
+
+.paddingBottom {
+    padding-bottom: 30px;
 }
 .image3 {
     background-image: linear-gradient( rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),url(/pictures/background.png);
