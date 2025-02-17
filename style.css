@@ -225,6 +225,11 @@ footer p {
 .text-center {
     text-align: center;
 }
+
+blockquote {
+    display: block;
+    margin: 0 auto;
+}
 @media (max-width: 900px) {
     header { 
         padding: 60px 0;
