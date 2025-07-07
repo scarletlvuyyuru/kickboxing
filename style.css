@@ -100,6 +100,7 @@ section {
 
 section.secondary {
     background: rgb(213, 211, 211);
+    padding-top: 5px;
 }
 footer {
     color: white;
